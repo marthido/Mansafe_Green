@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 04 Dec 2019 08:59:56 at https://afinda.vn/html/Ogami/homepage05.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://afinda.vn/html/Ogami/homepage05.html -O1 "C:\My Web Sites\template-trail" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:03:50	Error: 	"Not Found" (404) at link https://afinda.vn/html/Ogami/faq.html (from https://afinda.vn/html/Ogami/homepage05.html)
+09:06:01	Error: 	"Not Found" (404) at link https://afinda.vn/html/Ogami/wishlist.html (from https://afinda.vn/html/Ogami/homepage05.html)
+09:06:02	Error: 	"Not Found" (404) at link https://afinda.vn/html/Ogami/checkout.html (from https://afinda.vn/html/Ogami/homepage05.html)
+09:06:02	Error: 	"Not Found" (404) at link https://afinda.vn/html/Ogami/contact.html (from https://afinda.vn/html/Ogami/homepage05.html)
+09:06:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afinda.vn/html/Ogami/assets/fonts/Cera Pro Light.otf (from https://afinda.vn/html/Ogami/assets/css/style.css)
+09:06:02	Error: 	"Not Found" (404) at link https://afinda.vn/html/Ogami/assets/fonts/Cera Pro Light Italic (from https://afinda.vn/html/Ogami/assets/css/style.css)
+09:06:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afinda.vn/html/Ogami/assets/images/homepage03/quick_banner_3_img.png (from https://afinda.vn/html/Ogami/homepage03.html)
+09:06:07	Error: 	"Not Found" (404) at link https://afinda.vn/html/Ogami/shop__detail.html (from https://afinda.vn/html/Ogami/shop_grid+list_3col.html)
+09:06:07	Error: 	"Not Found" (404) at link https://afinda.vn/html/Ogami/product_grid+list_3col.html (from https://afinda.vn/html/Ogami/shop_detail_fullwidth.html)
+09:06:07	Warning: 	Retry after error -2 (Receive Time Out) at link https://afinda.vn/html/Ogami/assets/images/pages/about_us_icon_1.png (from https://afinda.vn/html/Ogami/about_us.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 13 seconds : 256 links scanned, 245 files written (25017516 bytes overall) [21237731 bytes received at 56937 bytes/sec], 5677636 bytes transferred using HTTP compression in 71 files, ratio 27%, 10.6 requests per connection
+(7 errors, 3 warnings, 0 messages)
